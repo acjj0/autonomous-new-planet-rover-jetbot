@@ -9,6 +9,7 @@
 
 
 Hardware, Software and Development Tools
+
 This is a physical prototype. It is important to pay careful attention to the hardware and infrastructure, software, setup, data collection, and model training to get this functioning right.
 
 4.1 Hardware & Infrastructure - Minimum Requirements
