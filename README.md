@@ -1,7 +1,7 @@
 # autonomous-rover
 
-* Final Report: PDF [JiajiaChen - Final Report - Autonomous New Planet Rover.pdf](https://github.com/acjj0/autonomous-rover/blob/main/JiajiaChen%20-%20Final%20Report%20-%20Autonomous%20New%20Planet%20Rover.pdf)
-* Slides: PDF [JiajiaChen - Final Presentation - Autonomous New Planet Rover.pdf](https://github.com/acjj0/autonomous-rover/blob/main/JiajiaChen%20-%20Final%20Presentation%20-%20Autonomous%20New%20Planet%20Rover.pdf)
+* Final Report: PDF [Report - Autonomous New Planet Rover.pdf](https://github.com/acjj0/autonomous-rover/blob/main/JiajiaChen%20-%20Final%20Report%20-%20Autonomous%20New%20Planet%20Rover.pdf)
+* Slides: PDF [Presentation - Autonomous New Planet Rover.pdf](https://github.com/acjj0/autonomous-rover/blob/main/JiajiaChen%20-%20Final%20Presentation%20-%20Autonomous%20New%20Planet%20Rover.pdf)
 * Demo videos: https://www.youtube.com/watch?v=3tTfUyWM6wI
 * Code: 3 ipynb files - rover_data_collection.ipynb, rover_logic.ipynb, rover_model_training.ipynb
 * Data: file dataset.zip
